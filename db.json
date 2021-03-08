@@ -1,0 +1,40 @@
+{
+  "data_tamu": [
+    {
+      "nama_lengkap": "Adit AHer",
+      "alamat": "bekasi",
+      "telpn": "081231231231",
+      "id": 1
+    },
+    {
+      "nama_lengkap": "Bambang sadikin",
+      "alamat": "depok",
+      "telpn": "081231231231",
+      "id": 2
+    },
+    {
+      "nama_lengkap": "Bagong Timble",
+      "alamat": "jakarta",
+      "telpn": "081231231231",
+      "id": 3
+    },
+    {
+      "nama_lengkap": "Bokir Kadal",
+      "alamat": "Tangerang",
+      "telpn": "081231231231",
+      "id": 4
+    },
+    {
+      "nama_lengkap": "Kirun boy",
+      "alamat": "jawa barat",
+      "telpn": "0811999831231",
+      "id": 5
+    },
+    {
+      "nama_lengkap": "klsndan",
+      "alamat": "knlakdklan",
+      "telpn": "22221",
+      "id": 6
+    }
+  ]
+}

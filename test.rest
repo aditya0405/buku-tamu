@@ -1,0 +1,27 @@
+###
+GET http://localhost:3000/data_tamu
+Content-Type: application/json
+
+###
+POST http://localhost:3000/data_tamu
+Content-Type: application/json
+
+{
+    "nama_lengkap": "Kirun boy",
+    "alamat": "jawa barat",
+    "telpn": "0811999831231"
+}
+
+
+###
+DELETE http://localhost:3000/data_tamu
+Content-Type: application/json
+
+###
+PUT http://localhost:3000/data_tamu
+Content-Type: application/json
+
+
+###
+PATCH http://localhost:3000/data_tamu
+Content-Type: application/json
